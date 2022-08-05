@@ -9,7 +9,6 @@ Library     BuiltIn
 Resource   CommonKeywordResource.robot
 
 
-
 *** Variables ***
 ${url}      https://staging.next.buyboxexperts.com/signin
 ${browser}  Chrome

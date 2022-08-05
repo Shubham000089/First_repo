@@ -1,6 +1,7 @@
 *** Settings ***
 Library     SeleniumLibrary
 Variables   Locators.py
+
 *** Variables ***
 ${LOGIN URL}    https://staging.next.buyboxexperts.com      #https://onboarding-stage.next.buyboxexperts.com/signin
 ${BROWSER}      Chrome

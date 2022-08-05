@@ -5,7 +5,6 @@ Variables    Locators.py
 Library     BuiltIn
 Library     String
 
-
 *** Keywords ***
 Enter field
     [Arguments]    ${INPUT_FIELD_LOCATOR}   ${INPUT_FIELD}

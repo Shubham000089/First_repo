@@ -7,6 +7,7 @@ Resource    ../../Resources/LoginTest.robot
 ${USER NAME}    rsonawne@buyboxexperts.com
 ${USER PASSWORD}    reshma57
 
+
 *** Test Cases ***
 Breakdown std services
     #set selenium speed      0.5

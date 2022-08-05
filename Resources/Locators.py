@@ -1,4 +1,4 @@
-# Login page
+#### Login page
 BBE_USERNAME = 'xpath://input[@id="emailAddress"]'
 CONTINUE_BUTTON = 'xpath://button[text()="Continue"]'
 BBE_PASSWORD = 'xpath://input[@id="password"]'
